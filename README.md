@@ -72,7 +72,8 @@ An interactive dashboard was built to uncover trends, patterns, and insights tha
 
 ## 📸 Dashboard Preview
 
-*(Dashboard.png)*
+
+![Dashboard](Dashboard.png)
 
 ---
 
