@@ -72,7 +72,7 @@ An interactive dashboard was built to uncover trends, patterns, and insights tha
 
 ## 📸 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
+*(Dashboard.png)*
 
 ---
 
@@ -88,7 +88,7 @@ An interactive dashboard was built to uncover trends, patterns, and insights tha
 ## 📁 Project Files
 
 * Power BI Dashboard (.pbix)
-* Dataset (optional)
+* Dataset 
 * README.md
 
 ---
