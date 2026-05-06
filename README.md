@@ -108,7 +108,6 @@ I’m actively looking for opportunities in Data Analytics.
 Feel free to connect and share feedback!
 
 * LinkedIn: *((https://github.com/Ananna-15))*
-* GitHub: *(Your GitHub profile link)*
 
 ---
 
