@@ -107,7 +107,7 @@ An interactive dashboard was built to uncover trends, patterns, and insights tha
 I’m actively looking for opportunities in Data Analytics.
 Feel free to connect and share feedback!
 
-* LinkedIn: *(Add your LinkedIn link)*
+* LinkedIn: *([Add your LinkedIn link](https://github.com/Ananna-15))*
 * GitHub: *(Your GitHub profile link)*
 
 ---
